@@ -33,3 +33,9 @@ git clone https://github.com/your-username/PostHubAPI.git
 
 4. **Using the API**:
 - Utilize the provided routes and endpoints to interact with the API functionalities.
+
+## AI-Assisted Artifacts
+
+- **Technical Debt Identifier Prompt** ([.github/prompts/technical-debt-identifier.prompt.md](.github/prompts/technical-debt-identifier.prompt.md)): A prompt file to guide AI agents in identifying and reporting technical debt in the repository. (Chat Log: [ai-logs/2026/02/11/identify-tech-debt-prompt-creation](ai-logs/2026/02/11/identify-tech-debt-prompt-creation))
+- **Technical Debt Report** ([docs/technical-debt-report.md](docs/technical-debt-report.md)): A comprehensive analysis of the existing technical debt. (Chat Log: [ai-logs/2026/02/11/execute-tech-debt-analysis-v2](ai-logs/2026/02/11/execute-tech-debt-analysis-v2))
+
